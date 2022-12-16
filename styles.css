@@ -1,0 +1,30 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: black;
+    color: red;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+h1 { 
+    text-align: center; 
+    color: orange;
+}
+h2 {
+    text-align: center;
+    color: #ddd;
+}
+
+main{
+    margin-top: 5%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    vertical-align: center;
+}
